@@ -1,0 +1,19 @@
+
+协议参数
+RTSP 版本
+RTSP URL	rtsp:|rtspu://host:port + abs_path
+会议的ID
+会话的ID
+
+// 待搞懂
+SMPTE相关的时间戳
+	smpte=10:12:33:20-
+	smpte=10:12:33-10:
+一般的播放时间
+绝对时间
+选项标签
+注册新的选项标签
+
+
+
+RTSP 消息
